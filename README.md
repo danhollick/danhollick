@@ -1,1 +1,1 @@
-Design Engineer at Tailwind Labs, purveyors of the finest CSS.
+Design Engineer at Cursor, previously at Tailwind CSS.
